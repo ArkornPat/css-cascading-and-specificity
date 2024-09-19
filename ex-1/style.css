@@ -16,7 +16,8 @@
   background-color: seagreen;
   border: 2px solid green;
 }
-button {
+
+.btn {
   padding: 4px 15px;
   border-radius: 5px;
   font-size: 18px;
